@@ -1,6 +1,8 @@
 # ZIPTOP Sales Dashboard – Excel BI Project
 
-![Dashboard Screenshot](excel%20das.png)
+![Dashboard Screenshot]<img width="1333" height="743" alt="ZIPTOP" src="https://github.com/user-attachments/assets/a6c924da-d0d8-44c8-ace0-389ad9f6a44a" />
+
+
 
 ## 📈 Project Overview
 
